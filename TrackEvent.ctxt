@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TrackEvent
+comment0.text=\r\n\ Represents\ a\ track\ event,\ extending\ Event.\r\n\ \r\n\ @author\ Vagner\ de\ Souza\r\n\ @version\ 1.0\r\n
+comment1.params=name
+comment1.target=TrackEvent(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ TrackEvent.\r\n\ @param\ name\ The\ event\ name.\r\n
+comment2.params=
+comment2.target=void\ displayResults()
+comment2.text=\r\n\ Displays\ track\ event\ results\ in\ a\ formatted\ way.\r\n
+comment3.params=
+comment3.target=void\ simulateRound()
+comment3.text=\r\n\ Simulates\ a\ round\ of\ the\ track\ event.\r\n\ Assigns\ random\ times\ to\ competitors\ and\ updates\ their\ scores.\r\n\ Then\ sorts\ the\ competitors\ by\ their\ scores\ in\ increasing\ order.\r\n
+numComments=4

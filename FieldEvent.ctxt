@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FieldEvent
+comment0.text=\r\n\ Represents\ a\ field\ event,\ extending\ Event.\r\n\r\n\ @author\ Vagner\ de\ Souza\r\n\ @version\ 1.0\r\n
+comment1.params=name
+comment1.target=FieldEvent(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ FieldEvent\r\n\ @param\ name\ The\ event\ name\r\n
+comment2.params=
+comment2.target=void\ displayResults()
+comment2.text=\r\n\ Displays\ field\ event\ results\ in\ a\ formatted\ way.\r\n
+comment3.params=
+comment3.target=void\ simulateRound()
+comment3.text=\r\n\ Simulates\ a\ round\ of\ the\ field\ event.\r\n\ Assigns\ random\ scores\ (distances)\ to\ competitors\ and\ updates\ their\ scores.\r\n
+numComments=4

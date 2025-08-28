@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Goalkeeper
+comment0.text=\r\n\ Represents\ a\ semi-professional\ goalkeeper\ available\ for\ hire.\r\n\ Stores\ basic\ details\ like\ name,\ availability,\ and\ hire\ rate.\r\n\ @author\ Vagner\ de\ Souza\r\n\ @Version\ 1.1\r\n
+comment1.params=id\ name\ availability\ hireRate
+comment1.target=Goalkeeper(int,\ java.lang.String,\ java.lang.String,\ double)
+comment10.params=other
+comment10.target=int\ compareTo(Goalkeeper)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getAvailability()
+comment5.params=
+comment5.target=double\ getHireRate()
+comment6.params=availability
+comment6.target=void\ setAvailability(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=obj
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=int\ hashCode()
+numComments=11

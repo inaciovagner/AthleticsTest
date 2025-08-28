@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Competitor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Competitor\ here.\r\n\r\n\ @author\ Vagner\ de\ Souza\ \ \r\n\ @version\ V1\r\n
+comment1.params=name
+comment1.target=Competitor(java.lang.String)
+comment2.params=obj
+comment2.target=boolean\ equals(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TestSimulateRound
+comment1.params=name
+comment1.target=Competitor(java.lang.String)
+comment2.params=
+comment2.target=double\ getScore()
+comment3.params=score
+comment3.target=void\ setScore(double)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=other
+comment5.target=int\ compareTo(Competitor)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

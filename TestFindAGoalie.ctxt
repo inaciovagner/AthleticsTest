@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestFindAGoalie
+comment0.text=\r\n\ This\ is\ part\ of\ a\ test\ class\ used\ to\ demonstrate\ the\ functionality\ of\ the\ FindAGoalie\ system,\r\n\ including\ booking,\ payment,\ display,\ and\ CSV\ file\ export\ features.\r\n\ \r\n\ @author\ Vagner\ de\ Souza\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
